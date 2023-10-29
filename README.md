@@ -29,6 +29,4 @@ The Interactive Landing Page project is a dynamic and engaging web page built us
 ## CONCLUSION
 Overall, the Interactive Landing Page project leverages HTML for structure, CSS for styling, and JavaScript for interactivity to create a visually appealing and functionally rich web page. Whether it's for a product launch, event promotion, or any other purpose, this project is a versatile solution for creating an engaging online presence.
 
-
-
-
+## GENERATED ID PREVIEW
