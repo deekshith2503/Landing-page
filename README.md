@@ -30,3 +30,4 @@ The Interactive Landing Page project is a dynamic and engaging web page built us
 Overall, the Interactive Landing Page project leverages HTML for structure, CSS for styling, and JavaScript for interactivity to create a visually appealing and functionally rich web page. Whether it's for a product launch, event promotion, or any other purpose, this project is a versatile solution for creating an engaging online presence.
 
 ## GENERATED ID PREVIEW
+![LOOP](https://github.com/deekshith2503/OIBSIP-TASK1/blob/main/landing-page-lamborghini-main/page%20preview.png)
